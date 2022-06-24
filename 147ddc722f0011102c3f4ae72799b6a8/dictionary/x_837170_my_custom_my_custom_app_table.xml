@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" label="My Custom App Table " max_length="40" name="x_837170_my_custom_my_custom_app_table" sizeclass="7" type="collection">
+        <element label="Enable favorites" max_length="40" name="enable_favorites" type="boolean"/>
+        <element label="Idea implemented" max_length="40" name="idea_implemented" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="My string field" mandatory="true" max_length="40" name="my_string_field" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="New Audio" max_length="40" name="u_audio_2" type="audio"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_11" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" mandatory="true" max_length="40" name="u_other" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="description" mandatory="true" max_length="125" name="u_short_description" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="status" mandatory="true" max_length="40" name="u_status_1" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="delete" sequence="0" value="delete"/>
+                <element inactive_on_update="false" label="pending" sequence="0" value="pending"/>
+                <element inactive_on_update="false" label="completed" sequence="1" value="completed"/>
+                <element inactive_on_update="false" label="skip" sequence="2" value="skip"/>
+                <element inactive_on_update="false" label="other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Other" max_length="100" name="u_string_other" type="string">
+            <choice/>
+        </element>
+    </element>
+</database>

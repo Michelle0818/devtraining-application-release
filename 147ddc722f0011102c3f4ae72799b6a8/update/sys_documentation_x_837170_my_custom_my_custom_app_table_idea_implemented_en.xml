@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="idea_implemented" label="Idea implemented" language="en" table="x_837170_my_custom_my_custom_app_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>idea_implemented</element>
+            <help/>
+            <hint/>
+            <label>Idea implemented</label>
+            <language>en</language>
+            <name>x_837170_my_custom_my_custom_app_table</name>
+            <plural>Idea implemented</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-16 08:14:26</sys_created_on>
+            <sys_id>681da03a2f0411102c3f4ae72799b634</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Idea implemented</sys_name>
+            <sys_package display_value="My Custom app" source="x_837170_my_custom">147ddc722f0011102c3f4ae72799b6a8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom app">147ddc722f0011102c3f4ae72799b6a8</sys_scope>
+            <sys_update_name>sys_documentation_x_837170_my_custom_my_custom_app_table_idea_implemented_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-16 08:14:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

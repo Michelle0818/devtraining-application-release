@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action">
+    <sys_ui_policy_rl_action action="DELETE">
+        <list/>
+        <sys_class_name>sys_ui_policy_rl_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 19:15:11</sys_created_on>
+        <sys_id>e0aaefc02f5c11102c3f4ae72799b619</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Custom app" source="x_837170_my_custom">147ddc722f0011102c3f4ae72799b6a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom app">147ddc722f0011102c3f4ae72799b6a8</sys_scope>
+        <sys_update_name>sys_ui_policy_rl_action_e0aaefc02f5c11102c3f4ae72799b619</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 19:15:11</sys_updated_on>
+        <ui_policy display_value="make fields read-only on close">5cb6e3002f5c11102c3f4ae72799b6da</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_rl_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="My Custom app">147ddc722f0011102c3f4ae72799b6a8</application>
+        <file_path/>
+        <instance_id>00b0364cdb985f442b157236bf96197e</instance_id>
+        <instance_name>dev49876</instance_name>
+        <name>sys_ui_policy_rl_action_e0aaefc02f5c11102c3f4ae72799b619</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_rl_action"><sys_ui_policy_rl_action action="INSERT_OR_UPDATE"><list/><sys_class_name>sys_ui_policy_rl_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-20 19:15:11</sys_created_on><sys_id>e0aaefc02f5c11102c3f4ae72799b619</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="My Custom app" source="x_837170_my_custom">147ddc722f0011102c3f4ae72799b6a8</sys_package><sys_policy/><sys_scope display_value="My Custom app">147ddc722f0011102c3f4ae72799b6a8</sys_scope><sys_update_name>sys_ui_policy_rl_action_e0aaefc02f5c11102c3f4ae72799b619</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-20 19:15:11</sys_updated_on><ui_policy display_value="make fields read-only on close">5cb6e3002f5c11102c3f4ae72799b6da</ui_policy><visible>ignore</visible></sys_ui_policy_rl_action></record_update>]]></payload>
+        <payload_hash>1969692495</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>147ddc722f0011102c3f4ae72799b6aa</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 19:15:11</sys_created_on>
+        <sys_id>2eaa6bc02f5c11102c3f4ae72799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181828a501a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 19:15:11</sys_updated_on>
+        <type>UI Policy Related List Action</type>
+        <update_guid>66aa6bc0585c1110f96573c416409134</update_guid>
+        <update_guid_history>66aa6bc0585c1110f96573c416409134:1969692495</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-20 19:16:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_rl_action">sys_ui_policy_rl_action</sys_db_object>
+        <sys_id>21aca2ca702e42908cda3799a5f2b4c4</sys_id>
+        <sys_metadata>e0aaefc02f5c11102c3f4ae72799b619</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="My Custom app" source="x_837170_my_custom">147ddc722f0011102c3f4ae72799b6a8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="My Custom app">147ddc722f0011102c3f4ae72799b6a8</sys_scope>
+        <sys_scope_delete display_value="">138eaf5e2ffc40d89149b2dfb9407651</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_rl_action_e0aaefc02f5c11102c3f4ae72799b619</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_rl_action_e0aaefc02f5c11102c3f4ae72799b619">2eaa6bc02f5c11102c3f4ae72799b634</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-20 19:16:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
